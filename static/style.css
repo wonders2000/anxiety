@@ -1,0 +1,129 @@
+.backgrd_img{
+    background-color: rgb(196, 251, 102);
+    
+
+}
+
+.que_design{
+    height: 400px;
+    background-color: rgb(196, 251, 102);
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 80px;
+    padding-right: 210;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.labelexpanded > input {
+    display: none;
+   
+}
+
+.que_design_bln{
+    height: 400px;
+    background-color: rgb(196, 251, 102);
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 20px;
+    padding-right: 212px;
+    padding-bottom: 30px;
+  
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+
+.purlple{
+    margin-top: -295px;
+    margin-left: 365px;
+}
+
+.que_design_sport{
+    height: 400px;
+    background-color: rgb(196, 251, 102);
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+.que_design_toy{
+    height: 400px;
+    background-color: rgb(196, 251, 102);
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.idli{
+   
+    margin-left: 170px;
+    margin-top: -150px;
+
+}
+
+
+.que_design_hobby{
+    height: 400px;
+    background-color: rgb(196, 251, 102);
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.hob{
+  
+    margin-left: 220px;
+    margin-top: -300px;
+    
+}
+
+.que_design_parent{
+    height: 400px;
+    background-color: rgb(196, 251, 102);
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+}
